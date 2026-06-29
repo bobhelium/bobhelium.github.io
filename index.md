@@ -8,9 +8,9 @@ layout: page
 
 It's **Peng** here(or just call me Bob).
 
-I am looking for 2026-2027 Spring/Fall intake Ph.D in Finance/Fintech as well as artificial intellgence interdisciplinary works would be preferable. 
+I am looking for 2026-2027 Spring/Fall intake Ph.D in Finance/Fintech as well as AI/DS, interdisciplinary works would be preferable.
 
-Currently, I worked as a research asscioate under the guidence of [Prof. CHEN chen](https://myweb.cuhk.edu.cn/chenchen2020) in Chinese University of Hong Kong (Shenzhen), meanwhile I'm collaborating with researchers with similiar interests.
+From 2023.7 to 2025.10, I worked as a research associate under the guidance of [Prof. CHEN Chen](https://myweb.cuhk.edu.cn/chenchen2020) at the Chinese University of Hong Kong (Shenzhen). I am now an independent researcher, and I continue to collaborate on papers with researchers who share similar interests.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, email me at *yifengpeng[at]link[dot]cuhk[dot]edu[dot]cn* or schedule a [Online Coffee Chat](https://calendly.com/heliumbob/how-about-an-online-coffee-with-helium) with me.
 
@@ -24,23 +24,23 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Artificial intelligence generative content(AIGC) and its Application in decision making
+- Artificial intelligence generative content(AIGC) and its Application
 - AI Alignment [(A quick guide for AI Alignment Problems)](https://alignmentsurvey.com/)🔗
 - Behavorial Finance (Investor Sentiment/emotion; Cognitive bias under information asymmetry)
-- Experimental Finance/Neruofinance/Neuroeconomics (I'm just a beginner in this field)
+- Experimental Finance/Neruofinance/Neuroeconomics
 - Alternative data mining (The usage of multimoal data with AIGC)
-- [My latest research proposal (December 2025)]({{ site.url }}/file/Research_Proposal20261201.pdf)🔗
+- [My latest research proposal (December 2025)]({{ site.url }}/file/RP26.6-EN.pdf)🔗
 - [Another research proposal (June 2025)]({{ site.url }}/file/RP_Peng-630.pdf)🔗
 
-My current research focuses on the **Alignment Problem** in Large Language models (LLMs), I'm also a fan for **Behavioral Finance**, with a heart for bounded rationality. Hoping that AI can liberate productivity and benefit mankind.
+My current research focuses on the **Alignment Problem** in Large Language models (LLMs), I'm also a fan for **Behavioral Finance**, with a heart for bounded rationality. Hoping that AI can liberate productivity and benefit mankind in every field.
 
 Try to find a connection between human behavior and machine behavior, LLMs were trained by biased data (Researchs were done to make sure no harm to human, but how to avoid potential future harms when everyone use it everyday in multiply field?), and human were influenced by the biased information, we would face a future together with AI, how to make the AI more aligned with human values is the key point of my research.
 
 ---
 
 ## News and Updates
-- **January 15 2026:** Our new preprint "CDiff: Bridging Conditional Diffusion and Causal Inference with Statistical Guarantees via Principled Distribution Approximation" is now available. We have submitted this work to **ICML 2026**. [[Preprint]]({{ site.url }}/mypaper/2025/ICML2026submission.pdf)
-- **December 10 2025:** Thrilled to collaborate with Prof. Qianqian Xie's team at WHU on our latest work "Hidden Memorization Trap in Financial LLMs." This study explores the reliability of LLMs in financial contexts. [[Draft]]({{ site.url }}/mypaper/2025/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B%E9%87%91%E8%9E%8D%E7%9A%84%E5%9B%9E%E5%BF%86%E6%80%A7%E8%B4%A8%E5%88%9D%E7%A8%BF.pdf)
+- **April 10 2026:** Thrilled to collaborate with Prof. Qianqian Xie's team at WHU on our latest work "Forecasting or Flashback? The Hidden Memorization Trap in Financial LLMs." This study explores whether LLM-based financial forecasting may sometimes be retrospective memorization rather than genuine prediction. [[Early Draft]]({{ site.url }}/mypaper/2025/Hidden_Memorization_Trap.pdf)
+- **January 15 2026:** Our new preprint "CDiff: Bridging Conditional Diffusion and Causal Inference with Statistical Guarantees via Principled Distribution Approximation" is now available. We have submitted this work to the next **AAAI**. [[Preprint]]({{ site.url }}/mypaper/2025/ICML2026submission.pdf)
 - **November 10 2025:** Achieved **17th place** in the [Kaggle Diabetes Prediction Challenge](https://www.kaggle.com/competitions/playground-series-s5e12/overview). Although I have limited time for extracurricular competitions this year, it was a great exercise!
 - **August 18 2025:** Our work "Poisoned Pills: insights from vulnerability disparity among llms" has been submitted to [**NeurIPS Lock-LLM Workshop 2025**](https://lock-llm.github.io/) for peer discussion.
 - **March 1 2025:** Happy to announce that our work "Poisoned Pills: insights from vulnerability disparity among llms" has been accepted by [**ACL 2025**](https://openreview.net/forum?id=AxRiACikG6&noteId=uf6p7sP67p&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FACL%2FARR%2F2025%2FFebruary%2FAuthors%23your-submissions)).

@@ -8,9 +8,18 @@ title: Blogs
 Currently On working! I'm trying to move my essays and blogs here when I have free time.
 目前还在建设中，我会将我的随笔和博客内容定期搬运到此页面。
 
+### 2026
+
+#### 五月/May
+- [当未来开始反刍自己]({{ site.url }}/blogs/2026-5-20_AI_Future/)
+
+#### 一月/January
+- [第一次到南沙]({{ site.url }}/blogs/2026-1-18_Nansha/)
+
 ### 2025
 
-
+#### 十一月/November
+- [Homo Silicus之后]({{ site.url }}/blogs/2025-11-20_Homo_Silicus/)
 
 #### 九月/September
 - [坐在这里]({{ site.url }}/blogs/2025-9-01_Blog/)
