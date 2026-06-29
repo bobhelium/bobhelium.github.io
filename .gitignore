@@ -1,0 +1,9 @@
+netlify-site/
+task_plan.md
+findings.md
+progress.md
+_site/
+.jekyll-cache/
+.sass-cache/
+Gemfile.lock
+debug.log
