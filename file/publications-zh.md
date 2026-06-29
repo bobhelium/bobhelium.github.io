@@ -10,9 +10,9 @@ title: Publications-zh
 ## 进行中的论文
 
 - [CDiff: Bridging Conditional Diffusion and Causal Inference with Statistical Guarantees via Principled Distribution Approximation]({{ site.url }}/mypaper/2025/ICML2026submission.pdf)<br>
-  **Peng Yifeng, collaborators**<br>已投稿下一届 **AAAI**。
+  **Peng Yifeng, collaborators**<br>预计投稿下一届 **AAAI 2027**。
 
-- [Forecasting or Flashback? The Hidden Memorization Trap in Financial LLMs]({{ site.url }}/mypaper/2025/Hidden_Memorization_Trap.pdf)<br>
+- [Hidden Memorization Trap in Financial LLMs]({{ site.url }}/mypaper/2025/Hidden_Memorization_Trap.pdf)<br>
   **Qianqian Xie, Qian Lin, Jason Duan, Peng Yifeng**<br>正在写作中的 early access 稿件。
 
 - [Volatility-based strategy on Chinese equity index ETF options](https://arxiv.org/abs/2403.00474)<br>
@@ -31,9 +31,6 @@ title: Publications-zh
 - [Internet sentiment exacerbates intraday overtrading, evidence from A-Share market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4943033)<br>
   **Peng Yifeng**<br>[Financial Innovation](https://jfin-swufe.springeropen.com/)。
 
-- [New intelligent empowerment for digital transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877072)<br>
-  **Peng Yifeng, Gao Chen**<br>正在 [Financial Innovation](https://jfin-swufe.springeropen.com/) 审稿中。
-
 - [Framework for Generative Intelligence Deconstruction & Governance, perspective from Non-Neutrality Technological]({{ site.url }}/mypaper/2024/LLM_ethic_framework.pdf)<br>
   **Peng Yifeng**<br>关于大语言模型伦理与治理框架的早期预印本。
 
@@ -46,6 +43,3 @@ title: Publications-zh
 
 - **LLM Agents in Experimental Asset Markets: Strategic Interaction and Price Formation**<br>
   这是同一研究计划中拆分出的第二个论文想法，关注不同 LLM agent 在多主体互动和内生价格市场中的协调、价格偏离、交易量和财富分布后果。
-
-- **Bon GPT, unexpected food journey from AIGC**<br>
-  在烹饪推荐领域，大语言模型是否真正理解烹饪、味觉与健康？食物推荐中是否存在地域偏好或偏见？这项研究目前仍在早期阶段，如果你感兴趣，欢迎联系我合作。

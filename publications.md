@@ -9,9 +9,9 @@ title: Publications
 ## Paper On Working
 
 - [CDiff: Bridging Conditional Diffusion and Causal Inference with Statistical Guarantees via Principled Distribution Approximation]({{ site.url }}/mypaper/2025/ICML2026submission.pdf)<br>
-  **Peng Yifeng, collaborators**<br>Submitted to the next **AAAI**.
+  **Peng Yifeng, collaborators**<br>Planning to submit **AAAI 2027**.
 
-- [Forecasting or Flashback? The Hidden Memorization Trap in Financial LLMs]({{ site.url }}/mypaper/2025/Hidden_Memorization_Trap.pdf)<br>
+- [Hidden Memorization Trap in Financial LLMs]({{ site.url }}/mypaper/2025/Hidden_Memorization_Trap.pdf)<br>
   **Qianqian Xie, Qian Lin, Jason Duan, Peng Yifeng**<br>Early access manuscript in progress.
 
 - [Volatility-based strategy on Chinese equity index ETF options](https://arxiv.org/abs/2403.00474)<br>
@@ -30,9 +30,6 @@ title: Publications
 - [Internet sentiment exacerbates intraday overtrading, evidence from A-Share market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4943033)<br>
   **Peng Yifeng**<br>[Financial Innovation](https://jfin-swufe.springeropen.com/).
 
-- [New intelligent empowerment for digital transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877072)<br>
-  **Peng Yifeng, Gao Chen**<br>Under reviewing by [Financial Innovation](https://jfin-swufe.springeropen.com/).
-
 - [Framework for Generative Intelligence Deconstruction & Governance, perspective from Non-Neutrality Technological]({{ site.url }}/mypaper/2024/LLM_ethic_framework.pdf)<br>
   **Peng Yifeng**<br>Early preprint on LLM ethics and governance.
 
@@ -45,6 +42,3 @@ title: Publications
 
 - **LLM Agents in Experimental Asset Markets: Strategic Interaction and Price Formation**<br>
   A second paper idea from the same proposal extends the analysis from individual behavioral signatures to multi-agent interaction, endogenous prices, coordination, trading volume, and wealth-distribution effects.
-
-- **Bon GPT, unexpected food journey from AIGC**<br>
-  In the realm of culinary recommendation, do LLMs possess a profound grasp of cooking, taste, and health? Could there be regional biases in food recommendations? This research is still in its early stage. Please feel free to reach out if you are interested in collaboration.
