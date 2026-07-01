@@ -29,7 +29,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Behavorial Finance (Investor Sentiment/emotion; Cognitive bias under information asymmetry)
 - Experimental Finance/Neruofinance/Neuroeconomics
 - Alternative data mining (The usage of multimoal data with AIGC)
-- [My latest research proposal (December 2025)]({{ site.url }}/file/RP26.6-EN.pdf)🔗
+- [My latest research proposal (June 2026)]({{ site.url }}/file/RP26.6-EN.pdf)🔗
 - [Another research proposal (June 2025)]({{ site.url }}/file/RP_Peng-630.pdf)🔗
 
 My current research focuses on the **Alignment Problem** in Large Language models (LLMs), I'm also a fan for **Behavioral Finance**, with a heart for bounded rationality. Hoping that AI can liberate productivity and benefit mankind in every field.

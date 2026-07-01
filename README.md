@@ -4,7 +4,7 @@ Here is **Helium (or Bob)**. This is my personal web repo. You could star if you
 
 ## Update and News
 
-- **June 29 2026:** Site restored after GitHub Pages reconfiguration.
+- **June 29 2026:** I transfered my pages from heilumpeng.github.io to bobhelium.github.io
 - **April 20 2024:** Go for it!🌟 My first personal websites!
 
 

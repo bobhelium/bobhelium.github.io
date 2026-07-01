@@ -1,6 +1,6 @@
 # Latest update in 2024/5/15 by Peng Yifeng.
 
-title: Peng Yifeng
+title: Helium Peng
 # tagline: Here is personal website of Peng Yifeng. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -8,16 +8,16 @@ url: https://bobhelium.github.io
 
 # Owner/author information
 owner:
-  name: Peng Yifeng
+  name: Helium Peng
   avatar: 深圳夕阳与我的背景.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: yifengpeng@link.cuhk.edu.cn
-  cv: /file/Peng-CV-2024.4.pdf
+  cv: /file/CV26.6.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
-  github: bobhelium
+  github: heliumpeng
   linkedin: yifeng-peng-5a1b7015b
-  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  scholar: https://scholar.google.com.sg/citations?user=9O4MHeUAAAAJ
   # bilibili: 594030035
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # zhihu: https://www.zhihu.com/people/chlire
