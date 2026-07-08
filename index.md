@@ -39,6 +39,7 @@ Try to find a connection between human behavior and machine behavior, LLMs were 
 ---
 
 ## News and Updates
+- **June 26 2026:** After GitHub flagged my former `HeliumPeng` account without prior notice and disabled its GitHub Pages deployment, repeated appeals received no response. I have migrated the site to `bobhelium.github.io`, which will serve as my personal website going forward.
 - **April 10 2026:** Thrilled to collaborate with Prof. Qianqian Xie's team at WHU on our latest work "Forecasting or Flashback? The Hidden Memorization Trap in Financial LLMs." This study explores whether LLM-based financial forecasting may sometimes be retrospective memorization rather than genuine prediction. [[Early Draft]]({{ site.url }}/mypaper/2025/Hidden_Memorization_Trap.pdf)
 - **January 15 2026:** Our new preprint "CDiff: Bridging Conditional Diffusion and Causal Inference with Statistical Guarantees via Principled Distribution Approximation" is now available. We have submitted this work to the next **AAAI**. [[Preprint]]({{ site.url }}/mypaper/2025/ICML2026submission.pdf)
 - **November 10 2025:** Achieved **17th place** in the [Kaggle Diabetes Prediction Challenge](https://www.kaggle.com/competitions/playground-series-s5e12/overview). Although I have limited time for extracurricular competitions this year, it was a great exercise!
