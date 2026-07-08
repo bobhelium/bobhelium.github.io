@@ -1,6 +1,7 @@
 # Helium refers to pure and serene ✨
 
 Here is **Helium (or Bob)**. This is my personal web repo. You could star if you like it~ 🥰
+This repo moved from [heliumpeng.github](https://github.com/HeliumPeng/HeliumPeng.github.io) to avoid account flagging.
 
 ## Update and News
 
