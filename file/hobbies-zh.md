@@ -4,7 +4,7 @@ permalink: /file/hobbies-zh/index.html
 title: Hobbies-zh
 ---
 
-> 更新时间:9th Jun 2024&nbsp;  [English Version (英文)]({{ site.url }}/hobbies/)
+> 更新时间:26th Jun 2026&nbsp;  [English Version (英文)]({{ site.url }}/hobbies/)
 
 # 个人爱好
 我非常乐意探索人生的其他可能
